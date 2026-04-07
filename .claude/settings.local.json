@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/joshanderson/WEBSITES/claude-test -maxdepth 3 -name package.json -o -name *.config.js -o -name *.config.ts -o -name Makefile -o -name Procfile)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
