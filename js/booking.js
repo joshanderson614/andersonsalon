@@ -597,7 +597,7 @@ function buildClientEmailHtml(client, booking) {
         <tr><td style="padding:0 40px 40px;">
           <div style="background:#1E1E1E;border-radius:4px;padding:24px 28px;text-align:center;">
             <p style="margin:0 0 6px;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#C9A84C;">Location</p>
-            <p style="margin:0 0 4px;font-size:15px;color:#ffffff;font-weight:600;">700 Levering Ave, Los Angeles</p>
+            <a href="https://maps.google.com/?q=700+Levering+Ave,+Los+Angeles,+CA" style="margin:0 0 4px;font-size:15px;color:#ffffff;font-weight:600;text-decoration:none;display:block;">700 Levering Ave, Los Angeles</a>
             <p style="margin:0 0 14px;font-size:12px;color:rgba(255,255,255,0.5);">Mon–Sat 9am–7pm &nbsp;·&nbsp; Sun 10am–5pm</p>
             <a href="tel:+13109859260" style="display:inline-block;background:#C9A84C;color:#1E1E1E;text-decoration:none;font-size:11px;letter-spacing:0.15em;text-transform:uppercase;font-weight:700;padding:10px 24px;border-radius:2px;">+1 310 985 9260</a>
           </div>
